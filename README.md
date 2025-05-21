@@ -1,4 +1,4 @@
-## Luke Ghallahorne
+# [Luke Ghallahorne](https://lukeghallahorne.github.io/)
 
 [LinkedIn](https://www.linkedin.com/in/lukeghallahorne/)
 [GitHub](https://github.com/lukeghallahorne)
