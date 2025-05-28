@@ -9,7 +9,11 @@ While my latest experience focuses on marine ecology and environmental statistic
 
 This site contains prior work of mine, primarily as a graduate student at Western Washington University. This includes projects and assignments from the Data Science for Environmental Applications Certificate program, as well as the Olympia oyster Dispersal Model and other data science work. Use the links below to navigate between projects, or see the source code in the associated GitHub repository.
 
+# Example Visualizations
+![Animation of modeled larval transport pathways over 3 weeks](/lukeghallahorne.github.io/docs/assets/FB_onto_far_v1.gif)
+
 # Portfolio
 ## Data Science for Environmental Applications
 [Website](https://lukeghallahorne.github.io/DataScience4EnviroApps/)
 [GitHub](https://github.com/lukeghallahorne/DataScience4EnviroApps)
+
