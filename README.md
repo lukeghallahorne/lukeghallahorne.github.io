@@ -10,7 +10,9 @@ While my latest experience focuses on marine ecology and environmental statistic
 This site contains prior work of mine, primarily as a graduate student at Western Washington University. This includes projects and assignments from the Data Science for Environmental Applications Certificate program, as well as the Olympia oyster Dispersal Model and other data science work. Use the links below to navigate between projects, or see the source code in the associated GitHub repository.
 
 # Example Visualizations
+Olympia oyster larval transport from Fidalgo Bay
 ![Animation of modeled larval transport pathways over 3 weeks](/lukeghallahorne.github.io/docs/assets/images/FB_onto_far_v1.gif)
+This figure shows modeled Olympia oyster larvae as they are transported around the central Salish Sea by currents. 1,475 "larvae" particles were released from grid cells within Fidalgo Bay, WA - a very successful Olympia oyster restoration site. Larvae were tracked for 3 weeks of the modeled year (2017). Following the second week, potential settlement sites (based on bathymetry and larval location in the water column) are marked in color.
 
 # Portfolio
 ## Data Science for Environmental Applications
