@@ -1,6 +1,6 @@
-
 [LinkedIn](https://www.linkedin.com/in/lukeghallahorne/)
 [GitHub](https://github.com/lukeghallahorne)
+
 
 I am a data scientist and computational biologist with extensive data wrangling, statistical modeling, and visualization experience. Currently, I am completing a Masters degree in Biology at Western Washington University. I work in the Larval Lab under Dr. Shawn Arellano in the Marine and Estuarine Science Program. My thesis research focuses on modeling transport and dispersal of Olympia oyster larvae throughout the Salish Sea using a nested biological and particle-tracking model built in R by Jake Lawlor and updated by me. This work has the potential to aid future restoration efforts of Olympia oysters by highlighting regions of high larval growth, retention, and connectivity between bays. Some results have already been used by the Padilla Bay NERR to inform the placement of larval recruitment stakes within Padilla Bay. 
 
