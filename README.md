@@ -10,10 +10,12 @@ This site contains prior work of mine, primarily as a graduate student at Wester
 
 # Olympia Oyster Visualization App
 This Shiny application pulls a few select larval tracks from my Olympia oyster larval transport model and maps them based on user-selected release site, behavior, and number of tracks. In development to include the entire dataset.
+
 [lukeghallahorne.shinyapps.io/Oly_Dispersal_MapApp/](https://lukeghallahorne.shinyapps.io/Oly_Dispersal_MapApp/)
 
 # Example Visualizations
 Olympia oyster larval transport from Fidalgo Bay
+
 ![Animation of modeled larval transport pathways over 3 weeks](https://lukeghallahorne.github.io/docs/assets/images/FB_onto_far_v2.gif)
 
 This figure shows modeled Olympia oyster larvae as they are transported around the central Salish Sea by currents. 1,475 "larvae" particles were released from grid cells within Fidalgo Bay, WA - a very successful Olympia oyster restoration site. Larvae were tracked for 3 weeks of the modeled year (2017). Following the second week, potential settlement sites (based on bathymetry and larval location in the water column) are marked in color.
@@ -21,5 +23,6 @@ This figure shows modeled Olympia oyster larvae as they are transported around t
 # Portfolio
 ## Data Science for Environmental Applications
 [Portfolio Website](https://lukeghallahorne.github.io/DataScience4EnviroApps/)
+
 [GitHub Repository](https://github.com/lukeghallahorne/DataScience4EnviroApps)
 
