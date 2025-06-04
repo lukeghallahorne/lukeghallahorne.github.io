@@ -11,6 +11,10 @@ While my latest experience focuses on marine ecology and environmental statistic
 
 This site contains prior work of mine, primarily as a graduate student at Western Washington University. This includes projects and assignments from the Data Science for Environmental Applications Certificate program, as well as the Olympia oyster Dispersal Model and other data science work. Use the links below to navigate between projects, or see the source code in the associated GitHub repository.
 
+# Olympia Oyster Visualization App
+This Shiny application pulls a few select larval tracks from my Olympia oyster larval transport model and maps them based on user-selected release site, behavior, and number of tracks. In development to include the entire dataset.
+[lukeghallahorne.shinyapps.io/Oly_Dispersal_MapApp/](https://lukeghallahorne.shinyapps.io/Oly_Dispersal_MapApp/)
+
 # Example Visualizations
 Olympia oyster larval transport from Fidalgo Bay
 ![Animation of modeled larval transport pathways over 3 weeks](https://lukeghallahorne.github.io/docs/assets/images/FB_onto_far_v2.gif)
@@ -19,6 +23,6 @@ This figure shows modeled Olympia oyster larvae as they are transported around t
 
 # Portfolio
 ## Data Science for Environmental Applications
-[Website](https://lukeghallahorne.github.io/DataScience4EnviroApps/)
-[GitHub](https://github.com/lukeghallahorne/DataScience4EnviroApps)
+[Portfolio Website](https://lukeghallahorne.github.io/DataScience4EnviroApps/)
+[GitHub Repository](https://github.com/lukeghallahorne/DataScience4EnviroApps)
 
