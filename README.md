@@ -1,6 +1,3 @@
-# Luke Ghallahorne
-
-
 [LinkedIn](https://www.linkedin.com/in/lukeghallahorne/)
 [GitHub](https://github.com/lukeghallahorne)
 
